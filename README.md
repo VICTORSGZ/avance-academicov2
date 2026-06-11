@@ -1,7 +1,6 @@
 # Avance Académico
 
-Esta versión mantiene el Excel como archivo editable y evita problemas de lectura local del navegador.
-
+Esta versión mantiene el Excel como archivo editable
 ## Flujo de uso
 
 1. Edita `data/malla_base.xlsx`.
