@@ -10,15 +10,6 @@ Esta versión mantiene el Excel como archivo editable y evita problemas de lectu
 4. Se genera automáticamente `data/malla_base.js`.
 5. Abre `index.html` o refresca la página.
 
-## Por qué funciona con doble clic
-
-La página no lee el Excel directamente con `fetch`. En su lugar, carga este archivo:
-
-```html
-<script src="data/malla_base.js"></script>
-```
-
-Ese archivo JS es generado desde el Excel por el BAT. Por eso puede funcionar incluso abriendo `index.html` con doble clic.
 
 ## Columnas que debe mantener el Excel
 
