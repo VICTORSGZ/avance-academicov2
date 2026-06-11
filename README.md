@@ -1,4 +1,4 @@
-# Avance Académico - Excel + BAT + JS
+# Avance Académico
 
 Esta versión mantiene el Excel como archivo editable y evita problemas de lectura local del navegador.
 
